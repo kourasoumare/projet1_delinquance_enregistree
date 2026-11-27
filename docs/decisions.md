@@ -31,3 +31,4 @@ Les décisions de la phase de cadrage sont classées par étape ; les suivantes 
 | 24/11/2026 | Structure du dépôt conforme à l'annexe B | Structure minimale exigée par le cahier des charges |
 | 24/11/2026 | Données exclues du dépôt via `.gitignore` | Exigence GIT-04 : les données brutes ne sont pas versionnées |
 | 24/11/2026 | Compléments au cadrage envoyés au prof (question principale, précision sur Q4, hypothèses) | Demandés par le prof pour rendre le cadrage définitif |
+| 25/11/2026 |	Branche develop par défaut ; develop et main protégées, seule la cheffe de projet fusionne après relecture d'un autre membre  |	Garder main stable pour les jalons ; respecter la relecture exigée par GIT-02 |
